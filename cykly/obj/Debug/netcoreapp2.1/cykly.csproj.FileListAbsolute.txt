@@ -1,0 +1,11 @@
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\bin\Debug\netcoreapp2.1\cykly.deps.json
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\bin\Debug\netcoreapp2.1\cykly.runtimeconfig.json
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\bin\Debug\netcoreapp2.1\cykly.runtimeconfig.dev.json
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\bin\Debug\netcoreapp2.1\cykly.dll
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\bin\Debug\netcoreapp2.1\cykly.pdb
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\obj\Debug\netcoreapp2.1\cykly.csprojAssemblyReference.cache
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\obj\Debug\netcoreapp2.1\cykly.csproj.CoreCompileInputs.cache
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\obj\Debug\netcoreapp2.1\cykly.AssemblyInfoInputs.cache
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\obj\Debug\netcoreapp2.1\cykly.AssemblyInfo.cs
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\obj\Debug\netcoreapp2.1\cykly.dll
+C:\Users\Zacek.Ra.2022\source\repos\cykly\cykly\obj\Debug\netcoreapp2.1\cykly.pdb
